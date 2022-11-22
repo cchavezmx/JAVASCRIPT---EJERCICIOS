@@ -1,5 +1,4 @@
-## Para instalar REACT 
-
+## Para instalar REACT
 
 ```bash
 
@@ -19,3 +18,6 @@ npm install @testing-library/react happy-dom -D
 
 ```
 
+```bash
+ npm run test twoSum.test.js --watch
+```

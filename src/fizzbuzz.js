@@ -4,14 +4,7 @@ const fizzbuzz = (num) => {
   }
 
   const multiples = { 3: 'fizz', 5: 'buzz' }
-  let ouput = ''
-  Object
-    .entries(multiples)
-    .forEach(([multiple, word]) => {
-      if (num % multiple === 0) ouput += word
-    })
-
-  return ouput === '' ? num : ouput
+  
 }
 
 export default fizzbuzz
