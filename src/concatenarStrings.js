@@ -9,7 +9,7 @@
 */
 
 const concatenarStrings = (a, b) => {
-  
+
 }
 
 export default concatenarStrings

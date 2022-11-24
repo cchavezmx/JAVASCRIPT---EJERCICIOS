@@ -6,7 +6,7 @@
 // Tipp: ten en cuenta el orden
 
 const basicMathOperations = (a, b, c, d, e, f) => {
-  
+
 }
 
 export default basicMathOperations

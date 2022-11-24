@@ -9,7 +9,7 @@
 */
 
 const evenNumber = (number) => {
-  
+
 }
 
 export default evenNumber
