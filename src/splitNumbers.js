@@ -5,7 +5,7 @@
 // Ejemplo: splitNumbers(123) => [1, 2, 3]
 
 const splitNumbers = (number) => {
-  
+
 }
 
 export default splitNumbers
