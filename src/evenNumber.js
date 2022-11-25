@@ -9,7 +9,11 @@
 */
 
 const evenNumber = (number) => {
-  
+  if (number / 2 == Number) {
+    return true
+  } else {
+    return false
+  }
 }
 
 export default evenNumber

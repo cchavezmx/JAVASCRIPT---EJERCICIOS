@@ -6,7 +6,12 @@
 // Tipp: ten en cuenta el orden
 
 const basicMathOperations = (a, b, c, d, e, f) => {
-  
+  const suma = a + b
+  const resta = suma - c
+  const multiplica = resta * d
+  const divide = multiplica / e
+  const potencia = divide ** f
+    return potencia
 }
 
 export default basicMathOperations

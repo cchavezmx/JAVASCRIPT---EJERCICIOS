@@ -7,7 +7,8 @@
 // 🚧 Ten cuidado con los espacios en blanco
 
 const nombresFinder = (string, inicial) => {
-  
+    console.log(string.split(', '))
+
 }
 
 export default nombresFinder

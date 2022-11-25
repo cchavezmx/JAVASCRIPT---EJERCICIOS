@@ -4,7 +4,7 @@
 // Ejemplo: decimalFunction(1.2345) => 1.23
 
 const decimalFunction = (number) => {
-  
+  return Number (number.toFixed(2))
 }
 
 export default decimalFunction
