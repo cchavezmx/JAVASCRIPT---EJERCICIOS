@@ -12,7 +12,8 @@
 // C             100
 // D             500
 // M             1000
-
+// debemos comprar un valor dentro de un for, con el siguiente
+// sort, reduce
 const romanNumbers = (roman) => {
 
 }
