@@ -62,7 +62,7 @@ O puedes correr todos los test con el siguiente comando:
 | 15  | [Remover duplicados](./src/removeDuplicates.js)    | Metodos de array           | ⭐⭐       | [Solución](./src/removeDuplicates.js)    |
 | 16  | [Numeros romanos](./src/romanNumbers.js)           | Metodos de string y bucles | ⭐⭐       | [Solución](./src/romanNumbers.js)        |
 | 17  | [Sumando numeros](./src/twoSum.js)                 | Bucles y condicionales     | ⭐⭐⭐     | [Solución](./src/twoSum.js)              |
-| 18  | [Validar parentesis](./src/validParentheses.js)    | Metodos de string y bucles | ⭐⭐⭐     | [Solución](./src/validParentheses.js)    |
+| 18  | [Buscador](./src/nombresFinder.js)                 | Bucles y condicionales     | ⭐⭐⭐     | [Solución](./src/nombresFinder.js)       |
 | 19  | [Fizzbuzz](./src/fizzbuzz.js)                      | Bucles y condicionales     | ⭐⭐⭐     | [Solución](./src/fizzbuzz.js)            |
 
 ## Ayuda y contribuciones ⛑️
