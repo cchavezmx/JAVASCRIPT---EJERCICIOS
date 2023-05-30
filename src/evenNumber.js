@@ -1,11 +1,10 @@
-// Write a function that takes a number as argument
-// If the number is even, return true
-// Otherwise, return false
-
 /*
   Completa la funcion que tome un numero como argumento
   Si el numero es par, retorna true
   De lo contrario, retorna false
+  EJEMPLO:
+  evenNumber(5)
+  retornar => false
 */
 
 const evenNumber = (number) => {
