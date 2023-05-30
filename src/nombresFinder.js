@@ -7,7 +7,7 @@
 // 🚧 Ten cuidado con los espacios en blanco
 
 const nombresFinder = (string, inicial) => {
-
+  // Escribe tu código aquí
 }
 
 export default nombresFinder
